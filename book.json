@@ -1,0 +1,11 @@
+{
+    "title": "郭小二的学习笔记",
+    "description": "郭小二如何一个开发者",
+    "language": "zh",
+    "plugins": [
+      "prism",
+      "-highlight"
+    ]
+  }
+  
+  
